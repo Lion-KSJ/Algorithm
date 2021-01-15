@@ -86,3 +86,4 @@ print("12. 리스트 초기화 -> ", array)
 lenA = len(a)
 array = [i*i for i in range(1,10)]
 print("12. 리스트 초기화 -> ", array)
+
